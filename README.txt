@@ -1,30 +1,23 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+ האתר של עמר, אופק ועילי
 
 
-This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
-and a cool depth effect (click on a menu item to see what I mean). Simple, fully
-responsive, and kitted out with all the usual pre-styled elements you'd expect.
-Hope you dig it :)
+זה האתר האישי המשותף שלנו.
+אנחנו שלושה סטודנטים למדעי המחשב שרצו מקום קצת יותר אישי וצבעוני מהלינקדאין או קורות חיים רגילים כדי לספר מי אנחנו.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+תוכן האתר:
+בגדול, ריכזנו כאן את כל מה שחשוב (ומעניין) עלינו:
+ קצת עלינו: הרקע שלנו, הצבא, ומה אנחנו מחפשים היום בתעשייה.
+ תחביבים: כי אנחנו לא רק כותבים קוד – יש פה ספורט, טיולים, בישול ונגינה.
+ גלריה: תמונות שאספנו מהטיולים והרגעים שלנו.
+ יצירת קשר: הדרכים הכי נוחות לתפוס אותנו.
 
-(* = not included)
+במה השתמשנו? (Tech Stack)
+ Frontend: HTML5, CSS3, ו-Bootstrap כדי שהכל יראה טוב גם בנייד.
+ Scripts: קצת jQuery ו-JS בשביל המעברים והאנימציות (החלון שנפתח ונסגר).
+ עיצוב: מבוסס על התבנית  "Dimension" של HTML5 UP, עם התאמות שלנו לעברית (RTL) ולתוכן האישי שלנו.
 
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+איך מריצים את זה?
+פשוט מאוד:
+1. מורידים את התיקייה למחשב.
+2. מוודאים שתיקיית `images` ו-`assets` יושבות ליד קובץ ה-`index`.
+3. דאבל-קליק על `index.html` וזה רץ בדפדפן.
